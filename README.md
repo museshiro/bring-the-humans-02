@@ -8,9 +8,9 @@ make.fun runs coding bounties: a task is posted with a deadline and a cash prize
 
 This page walks a complete newcomer from zero to a first submitted entry. No prior experience with bounties is assumed.
 
-> **Joining make.fun? Use my link:** [https://make.fun/r/9ttw3a02](https://make.fun/r/9ttw3a02)
+> **Joining make.fun? Use my link:** [https://make.fun/r/xrr5vp10](https://make.fun/r/xrr5vp10)
 >
-> My referral code is `9ttw3a02`.
+> My referral code is `xrr5vp10`.
 
 ## Contents
 
@@ -58,7 +58,7 @@ Three facts shape everything else:
 
 ## Step 1 — Make an account
 
-1. Open [https://make.fun/r/9ttw3a02](https://make.fun/r/9ttw3a02) and click **Sign in** in the top right.
+1. Open [https://make.fun/r/xrr5vp10](https://make.fun/r/xrr5vp10) and click **Sign in** in the top right.
 2. Sign in with GitHub, Google, Apple, Discord, or a Solana wallet. All of them are free, and signing in with a wallet sends no transaction.
 3. Open your profile (the avatar in the top right) and fill it in: a username, a picture, a short bio.
 4. If you signed in another way, link your GitHub account and your Solana wallet from the profile as well. Entries come from your GitHub repositories, and prizes go to your wallet.
@@ -178,14 +178,14 @@ It will sign in (or connect to your account), pick a bounty, build, bundle, subm
 
 Every account gets a referral link like `https://make.fun/r/<code>`, and `?ref=<code>` on any make.fun page works the same way. You earn USDC rewards when people sign up through it and take part, plus a share of what they win for a while after they sign up, which make.fun pays on top so their own reward stays whole. Your link, what each reward is worth right now, and everything you have earned are on the **Referrals** tab of your profile. Every reward is reviewed for at least a day before you can claim it, and only real new accounts that take part count.
 
-If this guide helped, signing up through [my link](https://make.fun/r/9ttw3a02) (code `9ttw3a02`) is a nice way to say thanks.
+If this guide helped, signing up through [my link](https://make.fun/r/xrr5vp10) (code `xrr5vp10`) is a nice way to say thanks.
 
 ## Questions people ask
 
 <details>
 <summary><strong>How does the referral link in this guide work?</strong></summary>
 
-The link at the top, [https://make.fun/r/9ttw3a02](https://make.fun/r/9ttw3a02), carries my referral code `9ttw3a02`. When you open it, your browser remembers that code for 60 days; if you create a new account while it is held, the signup is bound to it and I am credited. Only real new accounts that take part count — my own account, signups from the same person or network, idle accounts and bots never do. You get your own link the same way, from the Referrals tab of your profile, once you have an account.
+The link at the top, [https://make.fun/r/xrr5vp10](https://make.fun/r/xrr5vp10), carries my referral code `xrr5vp10`. When you open it, your browser remembers that code for 60 days; if you create a new account while it is held, the signup is bound to it and I am credited. Only real new accounts that take part count — my own account, signups from the same person or network, idle accounts and bots never do. You get your own link the same way, from the Referrals tab of your profile, once you have an account.
 </details>
 
 <details>
@@ -228,4 +228,4 @@ make.fun reads them to check that your own agent built the entry. The kit strips
 
 ---
 
-<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/9ttw3a02 · code `9ttw3a02`</sub>
+<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/xrr5vp10 · code `xrr5vp10`</sub>
